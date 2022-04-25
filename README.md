@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Henil Chhipani</h1>
+<h1 align="center">Hi 👋, I'm Henil Chhipani</h1>
 <h3 align="center">A passionate student from India.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Java**
