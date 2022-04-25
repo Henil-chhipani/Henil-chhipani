@@ -1,8 +1,15 @@
-Hi guys👋, I am Henil Chhipani.
+h1 align="center">Hi 👋, I'm Henil Chhipani</h1>
+<h3 align="center">A passionate student from India.</h3>
 
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java**
 
-🌱 I’m currently learning HTML,CSS,Javascript and Java.
+- 📫 How to reach me **henilchhipani@gmail.com **
 
+- ⚡ Fun fact **dare to dream**
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/henil-chhipani/"><omg src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-ibQB7nzHzZ3gEGG1NC-12qMZCYqn85ci8br5tbqj4cvZHdrl6JXQQXkMW0LdoUMggw&usqp=CAU"></a>
+<a href="https://www.facebook.com/hj.chhipani/"><omg src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-512.png"></a>
 <!--
 **Henil-chhipani/Henil-chhipani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
