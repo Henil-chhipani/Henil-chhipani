@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henil Chhipani</h1>
 <h3 align="center">A passionate student from India.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java, Android development, BLockchain, NFT**
+- 🌱 I’m currently learning **HTML, CSS, PHP, JavaScript, Java, Android development, BLockchain, NFT**
 
 - 📫 How to reach me **henilchhipani@gmail.com **
 
