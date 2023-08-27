@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
   <img src="https://img.shields.io/badge/-Android%20Dev-green" alt="Android Development" />
-  <img src="https://img.shields.io/badge/-React%20Native-%2320232a" alt="React Native" />
-  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React%20Native-blue" alt="React Native" />
+  <img src="https://img.shields.io/badge/-TypeScript" alt="TypeScript" />
 </p>
 
 
