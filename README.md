@@ -2,15 +2,16 @@
 <h3 align="center">Hey there, I'm Henil, a software enthusiast. I love building products that bring positive change and value to others.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/-PHP-purple" alt="PHP" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
-  <img src="https://img.shields.io/badge/-Android%20Dev-green" alt="Android Development" />
-  <img src="https://img.shields.io/badge/-React%20Native-blue" alt="React Native" />
-  <img src="https://img.shields.io/badge/-TypeScript-white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android%20Dev-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
+  <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
 
 
 <p align="center">
