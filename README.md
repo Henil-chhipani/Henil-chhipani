@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
   <img src="https://img.shields.io/badge/-Android%20Dev-green" alt="Android Development" />
   <img src="https://img.shields.io/badge/-React%20Native-blue" alt="React Native" />
-  <img src="https://img.shields.io/badge/-TypeScript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-white" alt="TypeScript" />
 </p>
 
 
