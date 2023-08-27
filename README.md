@@ -18,10 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/hj.chhipani/"><img src="https://github.com/Henil-chhipani/Henil-chhipani/blob/main/icon/5279111_network_fb_social%20media_facebook_facebook%20logo_icon.png" alt="Facebook" height="30" width="30"></a>
-   
-  <a href="https://linkedin.com/in/henil-chhipani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/hj.chhipani/">
+    <img src="https://img.shields.io/badge/Facebook-%230177B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/henil-chhipani" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/OS-Windows%20|%20Linux%20|%20Mac-lightgrey" alt="Operating Systems" />
@@ -29,10 +33,10 @@
   <!-- Add more badges for your tools and technologies -->
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<!--h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Henil-chhipani&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+</p!-->
 
 <h3 align="left">Projects:</h3>
 <ul>
