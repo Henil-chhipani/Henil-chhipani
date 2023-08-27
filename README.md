@@ -8,9 +8,10 @@
   <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Java-red" alt="Java" />
   <img src="https://img.shields.io/badge/-Android%20Dev-green" alt="Android Development" />
-  <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React%20Native-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
 
 <p align="center">
   📫 How to reach me: <a href="mailto:henilchhipani@gmail.com">henilchhipani@gmail.com</a>
