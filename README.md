@@ -35,8 +35,8 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="#">Project 1</a> - Description of project 1.</li>
-  <li><a href="#">Project 2</a> - Description of project 2.</li>
+  <li><a href="https://github.com/Henil-chhipani/Track_For_Safe">TracK for safe</a> - The app named Track for Safe aims to solve problems by effectively tracking them. In situations like natural disasters, the app's data can be crucial in saving lives. It has the capability to send notifications to users if they are in the red or orange zone, providing them with timely information for their safety.</li>
+  <li><a href="https://github.com/Henil-chhipani/chatapplication">Chat app</a> - Chat app Android app with java and firebase</li>
   <!-- Add more projects and descriptions -->
 </ul>
 
