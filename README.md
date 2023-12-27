@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Android%20Dev-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
   <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-   <img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
+   <img src="https://img.shields.io/badge/React%JS-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
 </p>
 
 
