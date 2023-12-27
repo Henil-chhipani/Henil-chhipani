@@ -48,9 +48,9 @@
   
   <li><a href="https://github.com/Henil-chhipani/chatapplication">Chat App</a> - Android chat app built with Java and Firebase.</li>
 
-  <li>Radion - Integrated Sales and Customer Management System</li>
+  <li>Radion - Integrated Sales and Customer Management System (MERN stack project)</li>
   <a href="https://github.com/Henil-chhipani/Radion-Frontend">Radion Frontend</a> Written in ReactJS
-<a href="https://github.com/Henil-chhipani/Radion-Backend">Radion Backend</a> - Written in node js and mongoDB
+<a href="https://github.com/Henil-chhipani/Radion-Backend">Radion Backend</a> - Written in Node js and MongoDB
   <!-- Add more projects and descriptions -->
 </ul>
 
