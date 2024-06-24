@@ -64,7 +64,8 @@
   Have an interesting project in mind or just want to say hi? Feel free to connect!
   <br>
   <a href="mailto:henilchhipani@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/henil-chhipani">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/henil-chhipani">LinkedIn</a> | 
+  <a href="https://x.com/henil_chhipani">Twitter</a>
 </p>
 
 <p align="center">
