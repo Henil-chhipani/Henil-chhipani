@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Hey there, I'm Henil, a software enthusiast. I love building products that bring positive change and value to others.</h3>
+<h3 align="center">I am Henil Chhipani a Software engineer, expert Mobile App Developer. Working on Android and react native. Building and working on amazing projects.</h3>
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Android%20Dev-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
+ <img src="https://img.shields.io/badge/jetpack%20compose-%23007ACC.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack" />
  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-%23FF0000.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android%20Dev-%23A4C639.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android Development" />
+</p><p align="center">
   <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-   
   <img src="https://img.shields.io/badge/NodeJS-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+ 
 </p>
 
 
