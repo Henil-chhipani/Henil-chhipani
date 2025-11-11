@@ -1,4 +1,11 @@
-[
+[ {
+    "title": "Lead Byte",
+    "description": "Lead Byte app for field agents to capture leads with live face detection and location tracking.",
+    "image": "https://raw.githubusercontent.com/Henil-chhipani/Henil-chhipani/main/assets/leadByteLogo.png",
+    "technologies": ["React native", "JS", "Live Face detection", "Location catureing", "Form building", ".net"],
+    "github": "",
+    "live": ""
+  },
   {
     "title": "Udhari App",
     "description": "Finance management app with Kotlin, MVI architecture, RoomDB, and voice command controls.",
