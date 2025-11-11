@@ -1,11 +1,19 @@
 [
+{
+     "title": "Full Stack Mobile Dev",
+    "company": "Power Placements/Tappn",
+    "period": "May 2025 - Present",
+    "description": "Working as a full-stack mobile dev building the TappN app from scratch for Android and iOS. Worked with live video streaming. Building a Venue management system. Handing Multiple apps in a single repo with themes and flavours",
+    "skills": ["React Native", "Android", "iOS", "VideoSDK", "Payment-Gateway", "Directus CMS", "Linux", "ReactJs", "Hosting", "GitHub", "Ai-Tools"],
+    "current": true
+}, 
   {
     "title": "Freelance SDE",
     "company": "Playpower Labs",
     "period": "Feb 2025 - Present",
     "description": "Working as an Android Developer on the Oasis app, implementing camera enhancements and UI improvements.",
     "skills": ["Android", "Kotlin", "UI/UX", "Camera APIs"],
-    "current": true
+    "current": false
   },
   {
     "title": "Intern",
