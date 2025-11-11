@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Kotlin",
+    "level": 95,
+    "category": "Languages",
+    "description": "Primary language for Android apps with modern syntax and null safety",
+    "project": "Udhari, Oasis"
+  },
+  {
+    "name": "Java",
+    "level": 85,
+    "category": "Languages",
+    "description": "Used in legacy Android and enterprise projects",
+    "project": "Gita18"
+  },
+  {
+    "name": "Jetpack Compose",
+    "level": 80,
+    "category": "Frameworks",
+    "description": "Declarative UI toolkit for modern Android apps"
+  },
+  {
+    "name": "MVI Architecture",
+    "level": 88,
+    "category": "Architecture",
+    "description": "State-driven pattern used in Udhari for predictable UI",
+    "project": "Udhari App"
+  },
+  {
+    "name": "CameraX",
+    "level": 90,
+    "category": "Libraries",
+    "description": "Advanced camera controls for underwater photography",
+    "project": "Oasis App"
+  },
+  {
+    "name": "Voice Commands",
+    "level": 82,
+    "category": "Libraries",
+    "description": "Speech-to-text integration for hands-free finance tracking",
+    "project": "Udhari App"
+  },
+  {
+    "name": "Room DB",
+    "level": 92,
+    "category": "Libraries",
+    "description": "Local SQLite abstraction with LiveData & Coroutines",
+    "project": "Udhari, Track For Safe"
+  },
+  {
+    "name": "Firebase",
+    "level": 87,
+    "category": "Backend",
+    "description": "Realtime database, auth, and cloud functions",
+    "project": "Chat App, Track For Safe"
+  },
+  {
+    "name": "Dagger Hilt",
+    "level": 78,
+    "category": "Tools",
+    "description": "Dependency injection for clean architecture"
+  },
+  {
+    "name": "Git & GitHub",
+    "level": 90,
+    "category": "Tools",
+    "description": "Version control and CI/CD workflows"
+  },
+  {
+    "name": "Figma",
+    "level": 75,
+    "category": "Design",
+    "description": "UI/UX design and prototyping"
+  },
+  {
+    "name": "Android Studio",
+    "level": 95,
+    "category": "Tools",
+    "description": "Primary IDE with emulators and profiling"
+  }
+]
