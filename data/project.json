@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Udhari App",
+    "description": "Finance management app with Kotlin, MVI architecture, RoomDB, and voice command controls.",
+    "image": "https://raw.githubusercontent.com/Henil-chhipani/Henil-chhipani/main/assets/udhari.png",
+    "technologies": ["Kotlin", "MVI", "RoomDB", "Voice Commands"],
+    "github": "https://github.com/Henil-chhipani/udhari",
+    "live": "https://udhari.pages.dev/"
+  },
+  {
+    "title": "Track For Safe",
+    "description": "Disaster management system with location and weather data, admin panel with user tracking.",
+    "image": "https://raw.githubusercontent.com/Henil-chhipani/Henil-chhipani/main/assets/logo_transprentmin.png",
+    "technologies": ["Android", "Firebase", "Maps API", "Location Tracking"],
+    "github": "https://github.com/Henil-chhipani/Track_For_Safe",
+    "live": ""
+  },
+  {
+    "title": "Chat App",
+    "description": "Chat application with MVVM architecture and push notifications.",
+    "image": "https://raw.githubusercontent.com/Henil-chhipani/Henil-chhipani/main/assets/chatapp.jpg",
+    "technologies": ["Kotlin", "MVVM", "Firebase", "Push Notifications"],
+    "github": "https://github.com/Henil-chhipani/chatapplication",
+    "live": ""
+  },
+  {
+    "title": "Gita18 App",
+    "description": "Bhagavad Gita app on Play Store with 1k+ downloads.",
+    "image": "https://raw.githubusercontent.com/Henil-chhipani/Henil-chhipani/main/assets/gita18%20(1).png",
+    "technologies": ["Android", "Java", "UI Design"],
+    "github": "",
+    "live": "https://play.google.com/store/apps/details?id=com.bhagavadgita.gita18&pcampaignid=web_share"
+  }
+]
