@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Freelance SDE",
+    "company": "Playpower Labs",
+    "period": "Feb 2025 - Present",
+    "description": "Working as an Android Developer on the Oasis app, implementing camera enhancements and UI improvements.",
+    "skills": ["Android", "Kotlin", "UI/UX", "Camera APIs"],
+    "current": true
+  },
+  {
+    "title": "Intern",
+    "company": "Playpower Labs",
+    "period": "July 2024 - Dec 2024",
+    "description": "Developed the Oasis camera app with advanced controls for underwater photography.",
+    "skills": ["Android", "Kotlin", "CameraX", "UI Design"],
+    "current": false
+  },
+  {
+    "title": "Trainee",
+    "company": "Silver Touch Technologies",
+    "period": "Jan 2024 - July 2024",
+    "description": "Built projects like Exam Management System, Budget Manager, and Quiz App.",
+    "skills": ["Android", "Kotlin", "Firebase", "Room DB"],
+    "current": false
+  },
+  {
+    "title": "Intern",
+    "company": "V2S Technology",
+    "period": "July 2023 - Aug 2023",
+    "description": "Contributed to the Gita18 app with 1k+ downloads on Play Store.",
+    "skills": ["Android", "Java", "UI Design"],
+    "current": false
+  }
+]
