@@ -1,7 +1,7 @@
 [
 {
      "title": "Full Stack Mobile Dev",
-    "company": "Power Placements/Tappn",
+    "company": "Tappn",
     "period": "May 2025 - Present",
     "description": "Working as a full-stack mobile dev building the TappN app from scratch for Android and iOS. Worked with live video streaming. Building a Venue management system. Handing Multiple apps in a single repo with schemes and flavours",
     "skills": ["React Native", "Android", "iOS", "VideoSDK", "Payment-Gateway", "Directus CMS", "Linux", "ReactJs", "Hosting", "GitHub", "Ai-Tools"],
